@@ -15,6 +15,7 @@ a {
 }
 
 .gradient__bg {
+  /* https://angrytools.com/gradient/ */
   /* ff 3.6+ */
   background: -moz-radial-gradient(
     circle at 3% 25%,
